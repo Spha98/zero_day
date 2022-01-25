@@ -1,1 +1,1 @@
-This is a test of repo-session
+The end of the project
